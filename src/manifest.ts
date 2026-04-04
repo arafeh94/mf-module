@@ -2,7 +2,7 @@ export const manifest = {
     "name": "CH:MF_NAME",
     "short_name": "CH:MF_NAME",
     "description": "CH:MF_DESCRIPTION",
-    "start_url": "/",
+    "start_url": "/CH:MF_NAME",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
