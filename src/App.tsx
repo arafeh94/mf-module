@@ -12,7 +12,7 @@ function App() {
                     padding: "20px",
                     borderColor: "white"
                 }}>
-                    <div>This area is controlled by the LMS APP</div>
+                    <div>This area is controlled by the CH:MF_NAME APP</div>
                 </div>
             </section>
         </>
